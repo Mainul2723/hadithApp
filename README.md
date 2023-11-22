@@ -1,7 +1,7 @@
 # hadith_app
 
 A new Flutter project.
-
+Its a clone app of Hadith which is available on Google PlayStore. Using SQLite, GetX, Animate, Carousel Slider etc.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
